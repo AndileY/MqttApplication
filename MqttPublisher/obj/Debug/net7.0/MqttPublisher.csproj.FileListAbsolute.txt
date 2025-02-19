@@ -1,0 +1,17 @@
+C:\Users\Integr8\source\repos\Pogramming intermidiate Zandile\MqttPublisher\bin\Debug\net7.0\MqttPublisher.exe
+C:\Users\Integr8\source\repos\Pogramming intermidiate Zandile\MqttPublisher\bin\Debug\net7.0\MqttPublisher.deps.json
+C:\Users\Integr8\source\repos\Pogramming intermidiate Zandile\MqttPublisher\bin\Debug\net7.0\MqttPublisher.runtimeconfig.json
+C:\Users\Integr8\source\repos\Pogramming intermidiate Zandile\MqttPublisher\bin\Debug\net7.0\MqttPublisher.dll
+C:\Users\Integr8\source\repos\Pogramming intermidiate Zandile\MqttPublisher\bin\Debug\net7.0\MqttPublisher.pdb
+C:\Users\Integr8\source\repos\Pogramming intermidiate Zandile\MqttPublisher\bin\Debug\net7.0\MQTTnet.dll
+C:\Users\Integr8\source\repos\Pogramming intermidiate Zandile\MqttPublisher\obj\Debug\net7.0\MqttPublisher.csproj.AssemblyReference.cache
+C:\Users\Integr8\source\repos\Pogramming intermidiate Zandile\MqttPublisher\obj\Debug\net7.0\MqttPublisher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Integr8\source\repos\Pogramming intermidiate Zandile\MqttPublisher\obj\Debug\net7.0\MqttPublisher.AssemblyInfoInputs.cache
+C:\Users\Integr8\source\repos\Pogramming intermidiate Zandile\MqttPublisher\obj\Debug\net7.0\MqttPublisher.AssemblyInfo.cs
+C:\Users\Integr8\source\repos\Pogramming intermidiate Zandile\MqttPublisher\obj\Debug\net7.0\MqttPublisher.csproj.CoreCompileInputs.cache
+C:\Users\Integr8\source\repos\Pogramming intermidiate Zandile\MqttPublisher\obj\Debug\net7.0\MqttPublisher.csproj.CopyComplete
+C:\Users\Integr8\source\repos\Pogramming intermidiate Zandile\MqttPublisher\obj\Debug\net7.0\MqttPublisher.dll
+C:\Users\Integr8\source\repos\Pogramming intermidiate Zandile\MqttPublisher\obj\Debug\net7.0\refint\MqttPublisher.dll
+C:\Users\Integr8\source\repos\Pogramming intermidiate Zandile\MqttPublisher\obj\Debug\net7.0\MqttPublisher.pdb
+C:\Users\Integr8\source\repos\Pogramming intermidiate Zandile\MqttPublisher\obj\Debug\net7.0\MqttPublisher.genruntimeconfig.cache
+C:\Users\Integr8\source\repos\Pogramming intermidiate Zandile\MqttPublisher\obj\Debug\net7.0\ref\MqttPublisher.dll
